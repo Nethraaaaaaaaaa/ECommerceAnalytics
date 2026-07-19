@@ -1,0 +1,10 @@
+E-Commerce Data Cleaning Report
+========================================
+
+Customers : 600
+Products : 500
+Orders : 1142
+Order Items : 2793
+
+Invalid Emails : 7
+Invalid Order References : 57

@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,Canon Camera,Electronics,Mobile,6383.6
+PROD0002,Lipstick,Beauty,Skincare,27754.97
+PROD0003,Shampoo,Beauty,Skincare,7462.95
+PROD0004,Conditioner,Beauty,Skincare,7319.93
+PROD0005,Sweater,Clothing,Kids,5585.32
+PROD0006,iPhone 15,Electronics,Laptop,39442.73
+PROD0007,Face Wash,Beauty,Makeup,2714.71
+PROD0008,SQL Basics,Books,Comics,23864.67
+PROD0009,Cupboard,Home,Decor,25241.55
+PROD0010,Hair Oil,Beauty,Skincare,32202.7
+PROD0011,Bluetooth Speaker,Electronics,Mobile,21371.05
+PROD0012,Bluetooth Speaker,Electronics,Television,4131.44
+PROD0013,Lipstick,Beauty,Skincare,31253.44
+PROD0014,Face Cream,Beauty,Makeup,26574.79
+PROD0015,Database Systems,Books,Comics,39675.5
+PROD0016,Apple Watch,Electronics,Laptop,11501.83
+PROD0017,Curtains,Home,Kitchen,4844.78
+PROD0018,Algorithms,Books,Novel,7716.68
+PROD0019,SQL Basics,Books,Education,4752.18
+PROD0020,Dell Laptop,Electronics,Headphones,29364.61
+PROD0021,Lipstick,Beauty,Makeup,43693.01
+PROD0022,Python Programming,Books,Comics,30060.46
+PROD0023,Cupboard,Home,Furniture,7821.04
+PROD0024,SQL Basics,Books,Education,27857.65
+PROD0025,Mechanical Keyboard,Electronics,Headphones,21512.71
+PROD0026,Makeup Kit,Beauty,Skincare,41490.09
+PROD0027,Office Chair,Home,Furniture,38144.23
+PROD0028,Dining Table,Home,Kitchen,7248.25
+PROD0029,Data Science,Books,Education,48593.33
+PROD0030,Apple Watch,Electronics,Laptop,17110.71
+PROD0031,Wall Clock,Home,Kitchen,28422.92
+PROD0032,Dell Laptop,Electronics,Mobile,30930.13
+PROD0033,Bluetooth Speaker,Electronics,Headphones,24334.52
+PROD0034,Algorithms,Books,Novel,25666.08
+PROD0035,Sofa,Home,Kitchen,33956.46
+PROD0036,aLGORITHMS,Books,Comics,19823.64
+PROD0037,Face Wash,Beauty,Skincare,47271.67
+PROD0038,Sweater,Clothing,Women,485.72
+PROD0039,Data Science,Books,Education,35213.2
+PROD0040,Lipstick,Beauty,Makeup,37127.86
+PROD0041,Cloud Computing,Books,Education,43119.29
+PROD0042,Makeup Kit,Beauty,Makeup,32043.07
+PROD0043,  Curtains  ,Home,Furniture,16305.93
+PROD0044,Body Lotion,Beauty,Makeup,42239.77
+PROD0045,Kids Dress,Clothing,Women,4024.49
+PROD0046,Wall Clock,Home,Decor,38977.98
+PROD0047,Gaming Mouse,Electronics,Mobile,45305.54
+PROD0048,Office Chair,Home,Kitchen,7407.57
+PROD0049,Kids Dress,Clothing,Men,37981.7
+PROD0050,Bluetooth Speaker,Electronics,Laptop,28230.4
+PROD0051,Makeup Kit,Beauty,Makeup,49327.94
+PROD0052,Wall Clock,Home,Decor,3507.48
+PROD0053,Algorithms,Books,Comics,29611.85
+PROD0054,Sofa,Home,Decor,22650.5
+PROD0055,LG Smart TV,Electronics,Headphones,43226.08
+PROD0056,Bluetooth Speaker,Electronics,Television,47716.15
+PROD0057,Mechanical Keyboard,Electronics,Television,16144.19
+PROD0058,Data Science,Books,Comics,22581.1
+PROD0059,Sofa,Home,Decor,8710.69
+PROD0060,Track Pants,Clothing,Kids,26251.02
+PROD0061,Body Lotion,Beauty,Skincare,14216.39
+PROD0062,dATABASE sYSTEMS,Books,Novel,31581.24
+PROD0063,Wall Clock,Home,Furniture,33951.13
+PROD0064,Cupboard,Home,Kitchen,16734.77
+PROD0065,Body Lotion,Beauty,Skincare,32837.13
+PROD0066,Database Systems,Books,Education,4327.48
+PROD0067,Body Lotion,Beauty,Makeup,33538.81
+PROD0068,Face Cream,Beauty,Skincare,1009.7
+PROD0069,Bed,Home,Furniture,38331.19
+PROD0070,Jeans,Clothing,Men,14860.03
+PROD0071,Canon Camera,Electronics,Mobile,30939.77
+PROD0072,Perfume,Beauty,Makeup,41584.12
+PROD0073,sUNSCREEN,Beauty,Skincare,18278.54
+PROD0074,Kids Dress,Clothing,Women,37451.97
+PROD0075,AI Handbook,Books,Education,48283.27
+PROD0076,Operating Systems,Books,Education,28563.93
+PROD0077,Algorithms,Books,Novel,25195.04
+PROD0078,Machine Learning,Books,Education,7006.09
+PROD0079,Bookshelf,Home,Furniture,27771.58
+PROD0080,LG Smart TV,Electronics,Mobile,8099.59
+PROD0081,Data Science,Books,Comics,4676.51
+PROD0082,Formal Shirt,Clothing,Women,20803.36
+PROD0083,Operating Systems,Books,Comics,49726.82
+PROD0084,Dining Table,Home,Furniture,5044.25
+PROD0085,oFFICE cHAIR,Home,Furniture,45878.07
+PROD0086,Data Science,Books,Comics,23508.6
+PROD0087,  Lipstick  ,Beauty,Skincare,10861.17
+PROD0088,Kids Dress,Clothing,Kids,5648.22
+PROD0089,Cookware Set,Home,Furniture,11998.13
+PROD0090,Lipstick,Beauty,Makeup,45266.83
+PROD0091,Hair Oil,Beauty,Skincare,35955.36
+PROD0092,Dining Table,Home,Kitchen,12104.16
+PROD0093,SQL Basics,Books,Education,18094.13
+PROD0094,Face Cream,Beauty,Skincare,2272.37
+PROD0095,Algorithms,Books,Novel,17918.98
+PROD0096,Sony Headphones,Electronics,Headphones,31450.02
+PROD0097,pERFUME,Beauty,Makeup,27346.09
+PROD0098,Track Pants,Clothing,Kids,23978.71
+PROD0099,Women Kurti,Clothing,Men,47185.9
+PROD0100,sONY hEADPHONES,Electronics,Headphones,10053.54
+PROD0101,LG Smart TV,Electronics,Headphones,49457.22
+PROD0102,cONDITIONER,Beauty,Makeup,32380.33
+PROD0103,Dining Table,Home,Kitchen,16663.04
+PROD0104,Apple Watch,Electronics,Headphones,37191.05
+PROD0105,Data Science,Books,Novel,24926.42
+PROD0106,Lipstick,Beauty,Makeup,4038.46
+PROD0107,Hair Oil,Beauty,Skincare,5219.64
+PROD0108,Cookware Set,Home,Decor,30170.82
+PROD0109,Cloud Computing,Books,Education,2213.52
+PROD0110,Curtains,Home,Decor,49003.36
+PROD0111,Apple Watch,Electronics,Mobile,40074.69
+PROD0112,Jeans,Clothing,Men,33936.63
+PROD0113,Data Science,Books,Education,38947.92
+PROD0114,Curtains,Home,Kitchen,1716.03
+PROD0115,Track Pants,Clothing,Kids,18663.47
+PROD0116,Gaming Mouse,Electronics,Laptop,15787.83
+PROD0117,  Sofa  ,Home,Furniture,9383.8
+PROD0118,Hair Oil,Beauty,Makeup,38770.73
+PROD0119,Database Systems,Books,Education,45832.3
+PROD0120,SQL Basics,Books,Education,3795.2
+PROD0121,Track Pants,Clothing,Kids,40544.61
+PROD0122,Wall Clock,Home,Decor,27544.86
+PROD0123,Office Chair,Home,Kitchen,46373.49
+PROD0124,Saree,Clothing,Women,49258.11
+PROD0125,  Track Pants  ,Clothing,Men,27745.67
+PROD0126,Lamp,Home,Kitchen,44223.9
+PROD0127,Apple Watch,Electronics,Headphones,35971.6
+PROD0128,Face Cream,Beauty,Makeup,3780.16
+PROD0129,Sofa,Home,Decor,34037.44
+PROD0130,Lamp,Home,Furniture,9179.96
+PROD0131,Saree,Clothing,Women,2865.1
+PROD0132,LG Smart TV,Electronics,Laptop,16200.77
+PROD0133,Saree,Clothing,Women,42312.09
+PROD0134,Lamp,Home,Furniture,31288.62
+PROD0135,Hair Oil,Beauty,Skincare,29631.24
+PROD0136,Perfume,Beauty,Skincare,36059.58
+PROD0137,mAKEUP kIT,Beauty,Makeup,43202.68
+PROD0138,Mechanical Keyboard,Electronics,Mobile,10619.34
+PROD0139,Makeup Kit,Beauty,Makeup,24952.1
+PROD0140,Conditioner,Beauty,Makeup,40253.94
+PROD0141,Cloud Computing,Books,Novel,3089.66
+PROD0142,Cloud Computing,Books,Novel,17075.61
+PROD0143,Formal Shirt,Clothing,Women,43052.79
+PROD0144,Operating Systems,Books,Education,5398.58
+PROD0145,Women Kurti,Clothing,Women,12471.15
+PROD0146,LG Smart TV,Electronics,Mobile,43221.78
+PROD0147,Data Science,Books,Education,46694.2
+PROD0148,Office Chair,Home,Furniture,25784.77
+PROD0149,  Cloud Computing  ,Books,Novel,47267.12
+PROD0150,Shampoo,Beauty,Makeup,17709.46
+PROD0151,Bluetooth Speaker,Electronics,Headphones,42158.2
+PROD0152,  AI Handbook  ,Books,Novel,5464.1
+PROD0153,Formal Shirt,Clothing,Women,18360.27
+PROD0154,Database Systems,Books,Education,18189.94
+PROD0155,Curtains,Home,Furniture,38243.77
+PROD0156,Cupboard,Home,Decor,48756.63
+PROD0157,Operating Systems,Books,Novel,18343.76
+PROD0158,Kids Dress,Clothing,Men,25053.89
+PROD0159,Dell Laptop,Electronics,Mobile,40217.9
+PROD0160,Perfume,Beauty,Makeup,25823.74
+PROD0161,Wall Clock,Home,Decor,49531.73
+PROD0162,Wall Clock,Home,Decor,25534.73
+PROD0163,Database Systems,Books,Comics,40805.87
+PROD0164,Sofa,Home,Kitchen,29226.74
+PROD0165,LG Smart TV,Electronics,Television,39166.91
+PROD0166,Face Wash,Beauty,Skincare,8608.55
+PROD0167,Perfume,Beauty,Makeup,12185.61
+PROD0168,  Shampoo  ,Beauty,Skincare,15753.25
+PROD0169,Jacket,Clothing,Women,38771.12
+PROD0170,Python Programming,Books,Comics,25982.29
+PROD0171,Sunscreen,Beauty,Makeup,15756.25
+PROD0172,Saree,Clothing,Women,17778.92
+PROD0173,Bookshelf,Home,Decor,12401.3
+PROD0174,Shampoo,Beauty,Makeup,49114.79
+PROD0175,Bed,Home,Decor,24501.25
+PROD0176,AI Handbook,Books,Novel,39790.73
+PROD0177,Sofa,Home,Kitchen,27205.22
+PROD0178,Data Science,Books,Novel,14452.75
+PROD0179,Bluetooth Speaker,Electronics,Headphones,37392.19
+PROD0180,Saree,Clothing,Men,28144.7
+PROD0181,Sofa,Home,Furniture,29382.84
+PROD0182,Saree,Clothing,Men,11718.54
+PROD0183,Canon Camera,Electronics,Television,5117.19
+PROD0184,Saree,Clothing,Men,7981.26
+PROD0185,Machine Learning,Books,Novel,14433.53
+PROD0186,Dining Table,Home,Decor,4564.09
+PROD0187,Hair Oil,Beauty,Skincare,42531.62
+PROD0188,Apple Watch,Electronics,Laptop,8871.86
+PROD0189,Bluetooth Speaker,Electronics,Television,37475.26
+PROD0190,Dining Table,Home,Furniture,30178.87
+PROD0191,Bookshelf,Home,Kitchen,27210.69
+PROD0192,AI Handbook,Books,Education,9721.29
+PROD0193,Dell Laptop,Electronics,Headphones,32449.44
+PROD0194,Formal Shirt,Clothing,Men,28432.28
+PROD0195,Kids Dress,Clothing,Men,44862.43
+PROD0196,Operating Systems,Books,Comics,33495.87
+PROD0197,Track Pants,Clothing,Men,12477.55
+PROD0198,Bed,Home,Kitchen,13423.02
+PROD0199,Cupboard,Home,Kitchen,670.64
+PROD0200,Bed,Home,Decor,5999.42
+PROD0201,Curtains,Home,Furniture,46162.99
+PROD0202,Sofa,Home,Decor,47037.72
+PROD0203,Bed,Home,Decor,6765.08
+PROD0204,Kids Dress,Clothing,Women,35126.84
+PROD0205,Machine Learning,Books,Comics,34049.06
+PROD0206,Hair Oil,Beauty,Skincare,35217.93
+PROD0207,iPhone 15,Electronics,Mobile,45154.12
+PROD0208,Saree,Clothing,Kids,16473.07
+PROD0209,Lipstick,Beauty,Makeup,35874.21
+PROD0210,AI Handbook,Books,Education,2876.23
+PROD0211,Hoodie,Clothing,Kids,2981.07
+PROD0212,Algorithms,Books,Comics,19857.84
+PROD0213,Mechanical Keyboard,Electronics,Laptop,21242.5
+PROD0214,Samsung Galaxy,Electronics,Mobile,23656.35
+PROD0215,Office Chair,Home,Kitchen,38314.8
+PROD0216,Java Programming,Books,Novel,45864.04
+PROD0217,SQL Basics,Books,Novel,33123.45
+PROD0218,Body Lotion,Beauty,Skincare,49643.05
+PROD0219,Data Science,Books,Comics,11212.24
+PROD0220,LG Smart TV,Electronics,Mobile,35982.79
+PROD0221,Java Programming,Books,Comics,12450.85
+PROD0222,Cookware Set,Home,Furniture,43772.89
+PROD0223,Apple Watch,Electronics,Mobile,46818.27
+PROD0224,Sony Headphones,Electronics,Laptop,29737.81
+PROD0225,Python Programming,Books,Comics,2307.41
+PROD0226,AI Handbook,Books,Education,43200.14
+PROD0227,Gaming Mouse,Electronics,Laptop,11784.66
+PROD0228,Makeup Kit,Beauty,Makeup,33659.34
+PROD0229,Cookware Set,Home,Furniture,49286.21
+PROD0230,Face Cream,Beauty,Skincare,3141.79
+PROD0231,Face Cream,Beauty,Skincare,2439.52
+PROD0232,Curtains,Home,Decor,16004.85
+PROD0233,Data Science,Books,Novel,9275.56
+PROD0234,Shampoo,Beauty,Makeup,15106.75
+PROD0235,Men T-Shirt,Clothing,Women,48392.53
+PROD0236,Face Cream,Beauty,Skincare,10246.5
+PROD0237,Canon Camera,Electronics,Television,36256.78
+PROD0238,Sweater,Clothing,Men,30287.98
+PROD0239,Sony Headphones,Electronics,Mobile,29420.43
+PROD0240,Sunscreen,Beauty,Skincare,45360.94
+PROD0241,Bed,Home,Furniture,48107.67
+PROD0242,Sony Headphones,Electronics,Television,35218.05
+PROD0243,AI Handbook,Books,Education,14224.65
+PROD0244,Operating Systems,Books,Comics,18046.27
+PROD0245,SQL Basics,Books,Novel,36148.44
+PROD0246,Wall Clock,Home,Furniture,2381.2
+PROD0247,  Jeans  ,Clothing,Kids,27710.25
+PROD0248,Conditioner,Beauty,Makeup,16560.28
+PROD0249,Machine Learning,Books,Comics,32764.94
+PROD0250,Bookshelf,Home,Kitchen,32120.55
+PROD0251,Data Science,Books,Novel,17673.59
+PROD0252,Saree,Clothing,Kids,45853.28
+PROD0253,hAIR oIL,Beauty,Skincare,42350.2
+PROD0254,Apple Watch,Electronics,Mobile,31572.01
+PROD0255,iPhone 15,Electronics,Laptop,22854.88
+PROD0256,  Bluetooth Speaker  ,Electronics,Television,26657.4
+PROD0257,Python Programming,Books,Education,13809.56
+PROD0258,Lamp,Home,Furniture,33734.24
+PROD0259,Women Kurti,Clothing,Men,12124.34
+PROD0260,Body Lotion,Beauty,Makeup,19905.13
+PROD0261,Bookshelf,Home,Kitchen,49512.63
+PROD0262,Women Kurti,Clothing,Women,42925.14
+PROD0263,Apple Watch,Electronics,Mobile,27679.8
+PROD0264,Dell Laptop,Electronics,Mobile,42281.96
+PROD0265,Sofa,Home,Decor,45965.7
+PROD0266,Kids Dress,Clothing,Men,2423.44
+PROD0267,Gaming Mouse,Electronics,Headphones,1741.8
+PROD0268,Bed,Home,Furniture,37637.5
+PROD0269,Algorithms,Books,Education,12099.56
+PROD0270,AI Handbook,Books,Comics,37804.9
+PROD0271,Women Kurti,Clothing,Kids,48718.73
+PROD0272,Apple Watch,Electronics,Mobile,3893.31
+PROD0273,  Body Lotion  ,Beauty,Makeup,13739.02
+PROD0274,Machine Learning,Books,Novel,47063.03
+PROD0275,Database Systems,Books,Education,4376.14
+PROD0276,Shampoo,Beauty,Makeup,4193.7
+PROD0277,Jeans,Clothing,Women,15902.24
+PROD0278,iPhone 15,Electronics,Mobile,22292.32
+PROD0279,Office Chair,Home,Furniture,21605.88
+PROD0280,  Lipstick  ,Beauty,Makeup,17760.32
+PROD0281,  Apple Watch  ,Electronics,Headphones,20749.12
+PROD0282,Mechanical Keyboard,Electronics,Laptop,34297.27
+PROD0283,Sweater,Clothing,Men,24706.88
+PROD0284,Apple Watch,Electronics,Laptop,15057.64
+PROD0285,LG Smart TV,Electronics,Headphones,36072.88
+PROD0286,Database Systems,Books,Comics,5437.92
+PROD0287,Curtains,Home,Furniture,31047.59
+PROD0288,Wall Clock,Home,Kitchen,41194.41
+PROD0289,Conditioner,Beauty,Skincare,47369.22
+PROD0290,Formal Shirt,Clothing,Women,19972.16
+PROD0291,Bookshelf,Home,Kitchen,39120.52
+PROD0292,Cookware Set,Home,Kitchen,19707.46
+PROD0293,Mechanical Keyboard,Electronics,Laptop,9078.37
+PROD0294,Sunscreen,Beauty,Skincare,10561.45
+PROD0295,Sofa,Home,Decor,39803.28
+PROD0296,Cloud Computing,Books,Comics,15211.35
+PROD0297,Office Chair,Home,Decor,39474.93
+PROD0298,Mechanical Keyboard,Electronics,Television,20100.17
+PROD0299,hAIR oIL,Beauty,Makeup,48424.56
+PROD0300,Lipstick,Beauty,Skincare,32914.32
+PROD0301,cUPBOARD,Home,Furniture,49182.05
+PROD0302,Java Programming,Books,Novel,5020.47
+PROD0303,Saree,Clothing,Kids,34414.45
+PROD0304,Formal Shirt,Clothing,Women,38639.88
+PROD0305,Body Lotion,Beauty,Skincare,24190.28
+PROD0306,Sofa,Home,Kitchen,47039.74
+PROD0307,Sweater,Clothing,Women,39235.07
+PROD0308,Body Lotion,Beauty,Makeup,21964.48
+PROD0309,SQL Basics,Books,Novel,40528.28
+PROD0310,Canon Camera,Electronics,Mobile,33889.25
+PROD0311,Jacket,Clothing,Kids,27640.32
+PROD0312,Curtains,Home,Decor,11669.59
+PROD0313,Data Science,Books,Comics,32899.66
+PROD0314,Database Systems,Books,Education,22533.79
+PROD0315,Python Programming,Books,Novel,10368.65
+PROD0316,Gaming Mouse,Electronics,Mobile,16366.65
+PROD0317,Algorithms,Books,Education,24525.25
+PROD0318,Curtains,Home,Decor,29391.54
+PROD0319,Bookshelf,Home,Kitchen,40705.54
+PROD0320,Cupboard,Home,Decor,6783.99
+PROD0321,LG Smart TV,Electronics,Laptop,18727.97
+PROD0322,Hoodie,Clothing,Kids,6979.58
+PROD0323,Data Science,Books,Novel,26915.23
+PROD0324,Jeans,Clothing,Kids,7100.8
+PROD0325,cUPBOARD,Home,Kitchen,18016.05
+PROD0326,Dell Laptop,Electronics,Television,19258.81
+PROD0327,Face Cream,Beauty,Makeup,20839.96
+PROD0328,Data Science,Books,Novel,1639.95
+PROD0329,Men T-Shirt,Clothing,Women,26926.67
+PROD0330,Kids Dress,Clothing,Women,38319.39
+PROD0331,Makeup Kit,Beauty,Skincare,38778.14
+PROD0332,Dining Table,Home,Decor,22124.19
+PROD0333,Women Kurti,Clothing,Women,32718.22
+PROD0334,Men T-Shirt,Clothing,Women,17493.99
+PROD0335,Samsung Galaxy,Electronics,Television,11923.61
+PROD0336,Makeup Kit,Beauty,Makeup,8382.48
+PROD0337,Jacket,Clothing,Men,28546.71
+PROD0338,Makeup Kit,Beauty,Makeup,16250.32
+PROD0339,Cupboard,Home,Kitchen,42915.04
+PROD0340,Apple Watch,Electronics,Laptop,49625.06
+PROD0341,Jeans,Clothing,Kids,35598.6
+PROD0342,Hoodie,Clothing,Kids,28913.53
+PROD0343,Curtains,Home,Decor,3868.26
+PROD0344,Gaming Mouse,Electronics,Television,34765.71
+PROD0345,Bookshelf,Home,Kitchen,223.41
+PROD0346,Canon Camera,Electronics,Television,39804.33
+PROD0347,Java Programming,Books,Education,24786.28
+PROD0348,Wall Clock,Home,Kitchen,6616.65
+PROD0349,pYTHON pROGRAMMING,Books,Novel,31346.36
+PROD0350,SQL Basics,Books,Education,7983.38
+PROD0351,Java Programming,Books,Education,34460.73
+PROD0352,Sweater,Clothing,Kids,46643.01
+PROD0353,Wall Clock,Home,Furniture,18655.0
+PROD0354,Hoodie,Clothing,Men,36326.82
+PROD0355,Women Kurti,Clothing,Women,154.21
+PROD0356,Data Science,Books,Education,26020.27
+PROD0357,Python Programming,Books,Education,40873.74
+PROD0358,Data Science,Books,Comics,11524.45
+PROD0359,Samsung Galaxy,Electronics,Mobile,44061.35
+PROD0360,Jeans,Clothing,Women,33889.14
+PROD0361,Mechanical Keyboard,Electronics,Mobile,22060.96
+PROD0362,Jeans,Clothing,Kids,30842.19
+PROD0363,SQL Basics,Books,Education,7086.66
+PROD0364,Canon Camera,Electronics,Television,15793.73
+PROD0365,Sweater,Clothing,Men,12483.53
+PROD0366,Face Wash,Beauty,Makeup,32954.43
+PROD0367,Lamp,Home,Furniture,9513.46
+PROD0368,Python Programming,Books,Novel,39709.52
+PROD0369,Hoodie,Clothing,Women,25029.17
+PROD0370,Hair Oil,Beauty,Skincare,702.14
+PROD0371,Office Chair,Home,Kitchen,41964.77
+PROD0372,AI Handbook,Books,Novel,38160.02
+PROD0373,Mechanical Keyboard,Electronics,Mobile,13183.05
+PROD0374,Apple Watch,Electronics,Mobile,31465.68
+PROD0375,Face Cream,Beauty,Makeup,4213.15
+PROD0376,Conditioner,Beauty,Skincare,4043.18
+PROD0377,Saree,Clothing,Men,29363.21
+PROD0378,Apple Watch,Electronics,Headphones,42338.76
+PROD0379,Samsung Galaxy,Electronics,Laptop,5887.73
+PROD0380,Conditioner,Beauty,Skincare,32936.81
+PROD0381,Men T-Shirt,Clothing,Men,35104.83
+PROD0382,Formal Shirt,Clothing,Women,39171.06
+PROD0383,Wall Clock,Home,Furniture,39078.09
+PROD0384,Sofa,Home,Decor,1564.88
+PROD0385,AI Handbook,Books,Novel,35644.93
+PROD0386,Sunscreen,Beauty,Skincare,18070.18
+PROD0387,Data Science,Books,Comics,12830.29
+PROD0388,Sony Headphones,Electronics,Mobile,228.17
+PROD0389,iPhone 15,Electronics,Laptop,19210.68
+PROD0390,Men T-Shirt,Clothing,Men,45705.99
+PROD0391,Operating Systems,Books,Education,45801.15
+PROD0392,Sofa,Home,Kitchen,6058.11
+PROD0393,Sony Headphones,Electronics,Laptop,49072.55
+PROD0394,Cloud Computing,Books,Education,38699.02
+PROD0395,Sofa,Home,Kitchen,497.66
+PROD0396,Kids Dress,Clothing,Women,37004.84
+PROD0397,Formal Shirt,Clothing,Women,24718.7
+PROD0398,Saree,Clothing,Kids,12331.83
+PROD0399,iPhone 15,Electronics,Television,17386.54
+PROD0400,iPhone 15,Electronics,Headphones,18876.11
+PROD0401,Bed,Home,Furniture,11984.56
+PROD0402,Data Science,Books,Education,4742.03
+PROD0403,Hoodie,Clothing,Kids,18687.35
+PROD0404,Gaming Mouse,Electronics,Mobile,41016.15
+PROD0405,Apple Watch,Electronics,Mobile,6622.34
+PROD0406,Wall Clock,Home,Kitchen,19708.34
+PROD0407,Bookshelf,Home,Kitchen,3826.9
+PROD0408,Kids Dress,Clothing,Men,5372.32
+PROD0409,Operating Systems,Books,Novel,26842.63
+PROD0410,Sweater,Clothing,Women,42638.86
+PROD0411,LG Smart TV,Electronics,Laptop,34874.21
+PROD0412,Canon Camera,Electronics,Laptop,35586.75
+PROD0413,lAMP,Home,Kitchen,15012.15
+PROD0414,Hoodie,Clothing,Men,27842.09
+PROD0415,Lipstick,Beauty,Skincare,40214.45
+PROD0416,Men T-Shirt,Clothing,Men,39069.9
+PROD0417,Jacket,Clothing,Men,18674.76
+PROD0418,  Samsung Galaxy  ,Electronics,Headphones,3317.15
+PROD0419,SQL Basics,Books,Education,41484.87
+PROD0420,Dining Table,Home,Furniture,2626.82
+PROD0421,Face Cream,Beauty,Makeup,19198.2
+PROD0422,Operating Systems,Books,Education,9438.84
+PROD0423,oFFICE cHAIR,Home,Kitchen,30996.91
+PROD0424,Sweater,Clothing,Kids,44150.65
+PROD0425,SQL Basics,Books,Education,6948.08
+PROD0426,Saree,Clothing,Kids,49704.96
+PROD0427,Face Cream,Beauty,Skincare,18019.69
+PROD0428,Body Lotion,Beauty,Makeup,25169.42
+PROD0429,  Data Science  ,Books,Novel,29896.11
+PROD0430,iPhone 15,Electronics,Headphones,23637.05
+PROD0431,Bed,Home,Decor,5096.7
+PROD0432,Saree,Clothing,Women,45871.25
+PROD0433,Mechanical Keyboard,Electronics,Laptop,39889.8
+PROD0434,Office Chair,Home,Furniture,15968.42
+PROD0435,Dining Table,Home,Decor,17648.94
+PROD0436,Makeup Kit,Beauty,Skincare,41851.17
+PROD0437,Algorithms,Books,Comics,1994.39
+PROD0438,Mechanical Keyboard,Electronics,Laptop,26369.78
+PROD0439,Mechanical Keyboard,Electronics,Headphones,6611.43
+PROD0440,  Men T-Shirt  ,Clothing,Women,29371.8
+PROD0441,Saree,Clothing,Men,48031.88
+PROD0442,Curtains,Home,Decor,16894.4
+PROD0443,Office Chair,Home,Furniture,21899.73
+PROD0444,Operating Systems,Books,Comics,48440.27
+PROD0445,Shampoo,Beauty,Makeup,40741.27
+PROD0446,Algorithms,Books,Novel,36468.66
+PROD0447,mAKEUP kIT,Beauty,Makeup,30159.19
+PROD0448,Makeup Kit,Beauty,Skincare,24859.63
+PROD0449,Sofa,Home,Decor,49120.74
+PROD0450,Women Kurti,Clothing,Kids,33534.23
+PROD0451,Dining Table,Home,Kitchen,12552.09
+PROD0452,LG Smart TV,Electronics,Headphones,36048.64
+PROD0453,Bluetooth Speaker,Electronics,Television,48458.18
+PROD0454,Java Programming,Books,Novel,18829.84
+PROD0455,Machine Learning,Books,Comics,3778.1
+PROD0456,iPhone 15,Electronics,Headphones,47587.94
+PROD0457,Dell Laptop,Electronics,Headphones,8129.13
+PROD0458,Canon Camera,Electronics,Mobile,30720.87
+PROD0459,Python Programming,Books,Comics,32716.4
+PROD0460,pERFUME,Beauty,Makeup,16621.62
+PROD0461,Saree,Clothing,Women,36525.7
+PROD0462,Cookware Set,Home,Decor,4886.2
+PROD0463,AI Handbook,Books,Comics,7764.14
+PROD0464,Curtains,Home,Furniture,41212.48
+PROD0465,Shampoo,Beauty,Makeup,10426.95
+PROD0466,Bookshelf,Home,Furniture,15486.83
+PROD0467,Cloud Computing,Books,Novel,13323.72
+PROD0468,Perfume,Beauty,Makeup,19134.11
+PROD0469,Men T-Shirt,Clothing,Women,23306.39
+PROD0470,Kids Dress,Clothing,Women,37636.53
+PROD0471,Canon Camera,Electronics,Mobile,20757.93
+PROD0472,Hair Oil,Beauty,Skincare,19416.59
+PROD0473,Hair Oil,Beauty,Makeup,46824.44
+PROD0474,Sunscreen,Beauty,Skincare,19800.74
+PROD0475,Samsung Galaxy,Electronics,Laptop,22507.08
+PROD0476,Jacket,Clothing,Men,21226.41
+PROD0477,Data Science,Books,Education,12968.53
+PROD0478,Apple Watch,Electronics,Mobile,27647.5
+PROD0479,Bookshelf,Home,Decor,716.95
+PROD0480,Lipstick,Beauty,Makeup,7495.17
+PROD0481,Lipstick,Beauty,Skincare,5139.42
+PROD0482,Wall Clock,Home,Decor,13280.42
+PROD0483,Database Systems,Books,Comics,8692.77
+PROD0484,Database Systems,Books,Education,34713.7
+PROD0485,Canon Camera,Electronics,Television,2559.62
+PROD0486,  Operating Systems  ,Books,Novel,40887.56
+PROD0487,Cookware Set,Home,Kitchen,42925.92
+PROD0488,Dell Laptop,Electronics,Laptop,37211.81
+PROD0489,Curtains,Home,Kitchen,4555.41
+PROD0490,Java Programming,Books,Education,37998.72
+PROD0491,Lamp,Home,Furniture,3374.29
+PROD0492,Perfume,Beauty,Makeup,26261.88
+PROD0493,Perfume,Beauty,Skincare,41663.2
+PROD0494,iPhone 15,Electronics,Laptop,45909.75
+PROD0495,Formal Shirt,Clothing,Women,25305.81
+PROD0496,Sony Headphones,Electronics,Mobile,29742.78
+PROD0497,Kids Dress,Clothing,Women,17278.03
+PROD0498,Sofa,Home,Decor,19389.63
+PROD0499,Jacket,Clothing,Kids,32404.26
+PROD0500,Hoodie,Clothing,Women,43245.03
